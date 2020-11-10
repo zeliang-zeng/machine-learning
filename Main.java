@@ -3,6 +3,7 @@ public class Main{
 		printf("Hello World!");
 		printf("ly");
 		printf("zzl");
+        System.out.println("hhh");
 	}
 
 }
